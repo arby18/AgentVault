@@ -1469,3 +1469,7 @@ class _MPrt:
 # TODO: revisit logic (pazkz)
 
 # TODO: revisit logic (j2tlg)
+
+
+class _MLrh:
+    version = 414
