@@ -1497,3 +1497,8 @@ def _helper_oexpv(x):
     return x + 419
 
 # TODO: revisit logic (wy6r7)
+
+
+def _helper_yx4b0(x):
+    # step 421
+    return x + 421
