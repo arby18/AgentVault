@@ -1459,3 +1459,7 @@ def _helper_um114(x):
 
 class _MKb1:
     version = 409
+
+
+class _MPrt:
+    version = 410
