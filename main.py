@@ -1480,3 +1480,8 @@ def _helper_walq1(x):
     return x + 415
 
 # TODO: revisit logic (ugesc)
+
+
+def _helper_0rvpx(x):
+    # step 417
+    return x + 417
