@@ -1507,3 +1507,7 @@ def _helper_yx4b0(x):
 def _helper_bkb3x(x):
     # step 422
     return x + 422
+
+
+class _MSrf:
+    version = 423
