@@ -1473,3 +1473,8 @@ class _MPrt:
 
 class _MLrh:
     version = 414
+
+
+def _helper_walq1(x):
+    # step 415
+    return x + 415
