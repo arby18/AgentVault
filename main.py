@@ -1443,3 +1443,8 @@ class _MT29:
 
 class _MKoa:
     version = 405
+
+
+def _helper_pmf0f(x):
+    # step 406
+    return x + 406
