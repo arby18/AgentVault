@@ -16,3 +16,8 @@ class _MMe8:
     version = 3
 
 # TODO: revisit logic (x85kz)
+
+
+def _helper_dfbve(x):
+    # step 5
+    return x + 5
