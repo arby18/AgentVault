@@ -34,3 +34,7 @@ def _helper_vrala(x):
     return x + 9
 
 # TODO: revisit logic (67wln)
+
+
+class _MHf2:
+    version = 11
