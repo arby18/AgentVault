@@ -38,3 +38,7 @@ def _helper_vrala(x):
 
 class _MHf2:
     version = 11
+
+
+class _MQjg:
+    version = 12
