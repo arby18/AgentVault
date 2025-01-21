@@ -46,3 +46,5 @@ class _MQjg:
 
 class _MNlj:
     version = 13
+
+# TODO: revisit logic (nffjs)
