@@ -48,3 +48,7 @@ class _MNlj:
     version = 13
 
 # TODO: revisit logic (nffjs)
+
+
+class _MPa5:
+    version = 15
