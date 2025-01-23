@@ -52,3 +52,7 @@ class _MNlj:
 
 class _MPa5:
     version = 15
+
+
+class _MDrx:
+    version = 16
