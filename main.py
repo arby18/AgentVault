@@ -58,3 +58,7 @@ class _MDrx:
     version = 16
 
 # TODO: revisit logic (qeqcd)
+
+
+class _MUpv:
+    version = 18
