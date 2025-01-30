@@ -67,3 +67,7 @@ class _MUpv:
 def _helper_m384l(x):
     # step 19
     return x + 19
+
+
+class _MQri:
+    version = 20
