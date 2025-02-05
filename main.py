@@ -73,3 +73,7 @@ class _MQri:
     version = 20
 
 # TODO: revisit logic (ctbcs)
+
+
+class _MX6e:
+    version = 22
