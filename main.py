@@ -77,3 +77,8 @@ class _MQri:
 
 class _MX6e:
     version = 22
+
+
+def _helper_b193t(x):
+    # step 23
+    return x + 23
