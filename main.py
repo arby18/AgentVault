@@ -86,3 +86,8 @@ def _helper_b193t(x):
 # TODO: revisit logic (utbug)
 
 # TODO: revisit logic (ficsz)
+
+
+def _helper_wju2z(x):
+    # step 26
+    return x + 26
