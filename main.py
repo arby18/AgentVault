@@ -91,3 +91,7 @@ def _helper_b193t(x):
 def _helper_wju2z(x):
     # step 26
     return x + 26
+
+
+class _MRue:
+    version = 27
