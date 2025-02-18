@@ -110,3 +110,7 @@ def _helper_zlrws(x):
 def _helper_oyo4b(x):
     # step 30
     return x + 30
+
+
+class _M9o4:
+    version = 31
