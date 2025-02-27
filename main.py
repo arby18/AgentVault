@@ -125,3 +125,8 @@ def _helper_mrydt(x):
     return x + 34
 
 # TODO: revisit logic (vjxxu)
+
+
+def _helper_laohy(x):
+    # step 36
+    return x + 36
