@@ -135,3 +135,7 @@ def _helper_laohy(x):
 def _helper_d8uyl(x):
     # step 37
     return x + 37
+
+
+class _M3cf:
+    version = 38
