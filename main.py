@@ -139,3 +139,7 @@ def _helper_d8uyl(x):
 
 class _M3cf:
     version = 38
+
+
+class _MHxc:
+    version = 39
