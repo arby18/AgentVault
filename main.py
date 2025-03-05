@@ -143,3 +143,8 @@ class _M3cf:
 
 class _MHxc:
     version = 39
+
+
+def _helper_ui1lr(x):
+    # step 40
+    return x + 40
