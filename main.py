@@ -167,3 +167,7 @@ def _helper_u2gd8(x):
     return x + 44
 
 # TODO: revisit logic (ijdi4)
+
+
+class _MVso:
+    version = 46
