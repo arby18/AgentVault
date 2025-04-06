@@ -203,3 +203,7 @@ def _helper_xbkvw(x):
 def _helper_vjhqn(x):
     # step 55
     return x + 55
+
+
+class _MMxs:
+    version = 56
