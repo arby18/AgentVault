@@ -221,3 +221,7 @@ def _helper_z68wa(x):
 
 class _MPml:
     version = 59
+
+
+class _MMjh:
+    version = 60
