@@ -225,3 +225,7 @@ class _MPml:
 
 class _MMjh:
     version = 60
+
+
+class _MZfk:
+    version = 61
