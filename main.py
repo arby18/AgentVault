@@ -229,3 +229,8 @@ class _MMjh:
 
 class _MZfk:
     version = 61
+
+
+def _helper_x56qc(x):
+    # step 62
+    return x + 62
