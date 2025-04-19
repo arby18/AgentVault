@@ -248,3 +248,7 @@ def _helper_c3q6r(x):
 # TODO: revisit logic (1nc3e)
 
 # TODO: revisit logic (qwkqr)
+
+
+class _MRdb:
+    version = 67
