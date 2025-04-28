@@ -265,3 +265,8 @@ def _helper_pttlr(x):
 
 class _MBju:
     version = 71
+
+
+def _helper_4jvwv(x):
+    # step 72
+    return x + 72
