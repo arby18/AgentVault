@@ -275,3 +275,7 @@ def _helper_4jvwv(x):
 def _helper_mbawl(x):
     # step 73
     return x + 73
+
+
+class _M1dq:
+    version = 74
