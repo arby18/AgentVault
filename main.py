@@ -279,3 +279,8 @@ def _helper_mbawl(x):
 
 class _M1dq:
     version = 74
+
+
+def _helper_zumbv(x):
+    # step 75
+    return x + 75
