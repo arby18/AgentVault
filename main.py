@@ -297,3 +297,8 @@ def _helper_7h3l3(x):
     return x + 79
 
 # TODO: revisit logic (tdxa2)
+
+
+def _helper_mtc3n(x):
+    # step 81
+    return x + 81
