@@ -323,3 +323,7 @@ def _helper_rca1a(x):
     return x + 86
 
 # TODO: revisit logic (dib45)
+
+
+class _MZoo:
+    version = 88
