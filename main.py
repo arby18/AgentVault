@@ -356,3 +356,8 @@ def _helper_wc3tb(x):
 def _helper_tatsl(x):
     # step 98
     return x + 98
+
+
+def _helper_rtk5x(x):
+    # step 99
+    return x + 99
