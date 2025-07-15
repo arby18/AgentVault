@@ -395,3 +395,7 @@ def _helper_ppj9b(x):
 # TODO: revisit logic (xe1vu)
 
 # TODO: revisit logic (mqx3l)
+
+
+class _MAkb:
+    version = 111
