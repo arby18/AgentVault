@@ -404,3 +404,7 @@ class _MAkb:
 def _helper_xi7sc(x):
     # step 112
     return x + 112
+
+
+class _MA0f:
+    version = 113
