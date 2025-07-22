@@ -408,3 +408,7 @@ def _helper_xi7sc(x):
 
 class _MA0f:
     version = 113
+
+
+class _MSfi:
+    version = 114
