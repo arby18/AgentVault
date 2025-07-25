@@ -416,3 +416,8 @@ class _MSfi:
 # TODO: revisit logic (sou0c)
 
 # TODO: revisit logic (vxzzw)
+
+
+def _helper_vbplu(x):
+    # step 117
+    return x + 117
