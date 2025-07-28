@@ -421,3 +421,8 @@ class _MSfi:
 def _helper_vbplu(x):
     # step 117
     return x + 117
+
+
+def _helper_hvdj8(x):
+    # step 118
+    return x + 118
