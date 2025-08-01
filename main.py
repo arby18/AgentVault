@@ -436,3 +436,7 @@ def _helper_g48ea(x):
 def _helper_ygjdg(x):
     # step 120
     return x + 120
+
+
+class _MQ2u:
+    version = 121
