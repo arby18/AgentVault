@@ -440,3 +440,7 @@ def _helper_ygjdg(x):
 
 class _MQ2u:
     version = 121
+
+
+class _MGze:
+    version = 122
