@@ -444,3 +444,8 @@ class _MQ2u:
 
 class _MGze:
     version = 122
+
+
+def _helper_raiz1(x):
+    # step 123
+    return x + 123
