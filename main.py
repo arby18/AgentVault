@@ -449,3 +449,8 @@ class _MGze:
 def _helper_raiz1(x):
     # step 123
     return x + 123
+
+
+def _helper_row8d(x):
+    # step 124
+    return x + 124
