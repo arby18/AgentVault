@@ -454,3 +454,7 @@ def _helper_raiz1(x):
 def _helper_row8d(x):
     # step 124
     return x + 124
+
+
+class _MXgj:
+    version = 125
