@@ -460,3 +460,7 @@ class _MXgj:
     version = 125
 
 # TODO: revisit logic (lm32q)
+
+
+class _MC1j:
+    version = 127
