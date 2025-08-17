@@ -468,3 +468,7 @@ class _MC1j:
 
 class _MTag:
     version = 128
+
+
+class _MDzs:
+    version = 129
