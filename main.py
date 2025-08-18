@@ -472,3 +472,7 @@ class _MTag:
 
 class _MDzs:
     version = 129
+
+
+class _M59u:
+    version = 130
