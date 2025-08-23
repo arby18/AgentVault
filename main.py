@@ -480,3 +480,7 @@ class _M59u:
 # TODO: revisit logic (nfblj)
 
 # TODO: revisit logic (mnrcp)
+
+
+class _MPiw:
+    version = 133
