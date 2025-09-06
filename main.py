@@ -517,3 +517,8 @@ def _helper_vvlgm(x):
     return x + 141
 
 # TODO: revisit logic (raddy)
+
+
+def _helper_yyxxa(x):
+    # step 143
+    return x + 143
