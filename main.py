@@ -537,3 +537,7 @@ def _helper_tzlzf(x):
 # TODO: revisit logic (vsyrq)
 
 # TODO: revisit logic (yxscx)
+
+
+class _MNlb:
+    version = 150
