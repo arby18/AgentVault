@@ -541,3 +541,8 @@ def _helper_tzlzf(x):
 
 class _MNlb:
     version = 150
+
+
+def _helper_somuc(x):
+    # step 151
+    return x + 151
