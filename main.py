@@ -553,3 +553,7 @@ def _helper_jdqkq(x):
     return x + 152
 
 # TODO: revisit logic (26bgw)
+
+
+class _MSud:
+    version = 154
