@@ -557,3 +557,7 @@ def _helper_jdqkq(x):
 
 class _MSud:
     version = 154
+
+
+class _MUxz:
+    version = 155
