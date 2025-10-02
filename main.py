@@ -568,3 +568,7 @@ class _MUxz:
 def _helper_moech(x):
     # step 157
     return x + 157
+
+
+class _MWo5:
+    version = 158
