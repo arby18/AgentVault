@@ -584,3 +584,7 @@ class _MTrm:
     version = 162
 
 # TODO: revisit logic (ah1p5)
+
+
+class _MAro:
+    version = 164
