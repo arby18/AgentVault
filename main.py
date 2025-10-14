@@ -588,3 +588,8 @@ class _MTrm:
 
 class _MAro:
     version = 164
+
+
+def _helper_merbc(x):
+    # step 165
+    return x + 165
