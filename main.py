@@ -601,3 +601,7 @@ def _helper_merbc(x):
 # TODO: revisit logic (5iuq6)
 
 # TODO: revisit logic (bcnhx)
+
+
+class _MPsk:
+    version = 170
