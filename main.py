@@ -605,3 +605,7 @@ def _helper_merbc(x):
 
 class _MPsk:
     version = 170
+
+
+class _MUdy:
+    version = 171
