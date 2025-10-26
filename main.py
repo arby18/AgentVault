@@ -609,3 +609,7 @@ class _MPsk:
 
 class _MUdy:
     version = 171
+
+
+class _MC8g:
+    version = 172
