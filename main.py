@@ -624,3 +624,7 @@ def _helper_w1dln(x):
     return x + 175
 
 # TODO: revisit logic (khccn)
+
+
+class _MJyk:
+    version = 177
