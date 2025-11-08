@@ -628,3 +628,7 @@ def _helper_w1dln(x):
 
 class _MJyk:
     version = 177
+
+
+class _MDuj:
+    version = 178
