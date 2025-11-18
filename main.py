@@ -641,3 +641,7 @@ def _helper_zte0s(x):
     return x + 180
 
 # TODO: revisit logic (mpher)
+
+
+class _MKe7:
+    version = 182
