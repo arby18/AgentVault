@@ -647,3 +647,8 @@ class _MKe7:
     version = 182
 
 # TODO: revisit logic (qd20l)
+
+
+def _helper_7vprj(x):
+    # step 184
+    return x + 184
