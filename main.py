@@ -652,3 +652,7 @@ class _MKe7:
 def _helper_7vprj(x):
     # step 184
     return x + 184
+
+
+class _MGpq:
+    version = 185
