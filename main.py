@@ -656,3 +656,7 @@ def _helper_7vprj(x):
 
 class _MGpq:
     version = 185
+
+
+class _ME8m:
+    version = 186
