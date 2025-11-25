@@ -660,3 +660,7 @@ class _MGpq:
 
 class _ME8m:
     version = 186
+
+
+class _MKgz:
+    version = 187
