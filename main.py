@@ -664,3 +664,7 @@ class _ME8m:
 
 class _MKgz:
     version = 187
+
+
+class _M12c:
+    version = 188
