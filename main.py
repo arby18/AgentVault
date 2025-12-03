@@ -677,3 +677,8 @@ class _M12c:
 def _helper_nxudm(x):
     # step 191
     return x + 191
+
+
+def _helper_y2y1f(x):
+    # step 192
+    return x + 192
