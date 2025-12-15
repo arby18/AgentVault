@@ -693,3 +693,7 @@ def _helper_sb3rf(x):
 # TODO: revisit logic (2noas)
 
 # TODO: revisit logic (vdyw7)
+
+
+class _MHjr:
+    version = 197
