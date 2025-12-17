@@ -697,3 +697,7 @@ def _helper_sb3rf(x):
 
 class _MHjr:
     version = 197
+
+
+class _MJpt:
+    version = 198
