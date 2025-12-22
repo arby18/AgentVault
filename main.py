@@ -715,3 +715,7 @@ def _helper_q516n(x):
 def _helper_y4vrl(x):
     # step 202
     return x + 202
+
+
+class _MMaa:
+    version = 203
