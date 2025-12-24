@@ -721,3 +721,8 @@ class _MMaa:
     version = 203
 
 # TODO: revisit logic (so1d0)
+
+
+def _helper_xotuo(x):
+    # step 205
+    return x + 205
