@@ -726,3 +726,8 @@ class _MMaa:
 def _helper_xotuo(x):
     # step 205
     return x + 205
+
+
+def _helper_hlfku(x):
+    # step 206
+    return x + 206
