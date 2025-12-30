@@ -733,3 +733,5 @@ def _helper_hlfku(x):
     return x + 206
 
 # TODO: revisit logic (4to65)
+
+# TODO: revisit logic (knxit)
