@@ -735,3 +735,8 @@ def _helper_hlfku(x):
 # TODO: revisit logic (4to65)
 
 # TODO: revisit logic (knxit)
+
+
+def _helper_eqo0r(x):
+    # step 209
+    return x + 209
