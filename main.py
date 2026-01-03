@@ -742,3 +742,7 @@ def _helper_eqo0r(x):
     return x + 209
 
 # TODO: revisit logic (858jp)
+
+
+class _MFfq:
+    version = 211
