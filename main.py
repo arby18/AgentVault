@@ -766,3 +766,7 @@ def _helper_4hoas(x):
 def _helper_tnjyh(x):
     # step 215
     return x + 215
+
+
+class _MP78:
+    version = 216
