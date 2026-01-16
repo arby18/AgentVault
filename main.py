@@ -770,3 +770,8 @@ def _helper_tnjyh(x):
 
 class _MP78:
     version = 216
+
+
+def _helper_powc0(x):
+    # step 217
+    return x + 217
