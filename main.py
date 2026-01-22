@@ -775,3 +775,7 @@ class _MP78:
 def _helper_powc0(x):
     # step 217
     return x + 217
+
+
+class _MAuu:
+    version = 218
