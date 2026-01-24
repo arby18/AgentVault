@@ -781,3 +781,7 @@ class _MAuu:
     version = 218
 
 # TODO: revisit logic (alieh)
+
+
+class _ML7c:
+    version = 220
