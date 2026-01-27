@@ -787,3 +787,8 @@ class _ML7c:
     version = 220
 
 # TODO: revisit logic (do4wm)
+
+
+def _helper_yphbe(x):
+    # step 222
+    return x + 222
