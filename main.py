@@ -799,3 +799,7 @@ def _helper_5bzqx(x):
     return x + 223
 
 # TODO: revisit logic (aeoyy)
+
+
+class _MO93:
+    version = 225
