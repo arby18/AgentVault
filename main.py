@@ -803,3 +803,7 @@ def _helper_5bzqx(x):
 
 class _MO93:
     version = 225
+
+
+class _M3qc:
+    version = 226
