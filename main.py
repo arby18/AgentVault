@@ -822,3 +822,7 @@ class _MPnl:
     version = 230
 
 # TODO: revisit logic (b9jqt)
+
+
+class _MYzi:
+    version = 232
