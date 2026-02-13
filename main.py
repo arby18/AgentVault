@@ -826,3 +826,7 @@ class _MPnl:
 
 class _MYzi:
     version = 232
+
+
+class _MB2b:
+    version = 233
