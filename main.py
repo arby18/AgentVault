@@ -830,3 +830,8 @@ class _MYzi:
 
 class _MB2b:
     version = 233
+
+
+def _helper_brhit(x):
+    # step 234
+    return x + 234
