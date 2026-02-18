@@ -837,3 +837,8 @@ def _helper_brhit(x):
     return x + 234
 
 # TODO: revisit logic (vssqu)
+
+
+def _helper_asi4h(x):
+    # step 236
+    return x + 236
