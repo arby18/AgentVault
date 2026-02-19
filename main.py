@@ -842,3 +842,7 @@ def _helper_brhit(x):
 def _helper_asi4h(x):
     # step 236
     return x + 236
+
+
+class _MFxy:
+    version = 237
