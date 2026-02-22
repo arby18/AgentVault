@@ -853,3 +853,7 @@ class _MFxy:
 def _helper_dv2kn(x):
     # step 239
     return x + 239
+
+
+class _MYsa:
+    version = 240
