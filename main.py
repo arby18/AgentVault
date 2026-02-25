@@ -857,3 +857,7 @@ def _helper_dv2kn(x):
 
 class _MYsa:
     version = 240
+
+
+class _MO5y:
+    version = 241
