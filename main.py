@@ -874,3 +874,7 @@ class _MOj3:
 def _helper_iicgr(x):
     # step 245
     return x + 245
+
+
+class _MDzu:
+    version = 246
