@@ -878,3 +878,8 @@ def _helper_iicgr(x):
 
 class _MDzu:
     version = 246
+
+
+def _helper_rqsuq(x):
+    # step 247
+    return x + 247
