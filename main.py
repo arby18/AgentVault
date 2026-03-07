@@ -883,3 +883,7 @@ class _MDzu:
 def _helper_rqsuq(x):
     # step 247
     return x + 247
+
+
+class _MZ5l:
+    version = 248
