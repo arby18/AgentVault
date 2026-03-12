@@ -893,3 +893,8 @@ class _MZ5l:
 # TODO: revisit logic (akc2p)
 
 # TODO: revisit logic (0vi8y)
+
+
+def _helper_9pulo(x):
+    # step 252
+    return x + 252
