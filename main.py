@@ -900,3 +900,7 @@ def _helper_9pulo(x):
     return x + 252
 
 # TODO: revisit logic (jbebf)
+
+
+class _MUmm:
+    version = 254
