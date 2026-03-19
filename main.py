@@ -913,3 +913,8 @@ class _MUmm:
 def _helper_b7uti(x):
     # step 257
     return x + 257
+
+
+def _helper_umgs1(x):
+    # step 258
+    return x + 258
