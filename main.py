@@ -923,3 +923,7 @@ def _helper_umgs1(x):
 def _helper_edd5l(x):
     # step 259
     return x + 259
+
+
+class _MR4i:
+    version = 260
