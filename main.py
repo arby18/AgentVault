@@ -927,3 +927,7 @@ def _helper_edd5l(x):
 
 class _MR4i:
     version = 260
+
+
+class _MYrn:
+    version = 261
