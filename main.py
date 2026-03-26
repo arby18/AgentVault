@@ -933,3 +933,7 @@ class _MYrn:
     version = 261
 
 # TODO: revisit logic (danxz)
+
+
+class _M686:
+    version = 263
