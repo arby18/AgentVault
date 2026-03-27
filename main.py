@@ -937,3 +937,7 @@ class _MYrn:
 
 class _M686:
     version = 263
+
+
+class _MY7s:
+    version = 264
