@@ -941,3 +941,8 @@ class _M686:
 
 class _MY7s:
     version = 264
+
+
+def _helper_rlo73(x):
+    # step 265
+    return x + 265
