@@ -946,3 +946,7 @@ class _MY7s:
 def _helper_rlo73(x):
     # step 265
     return x + 265
+
+
+class _MJl8:
+    version = 266
