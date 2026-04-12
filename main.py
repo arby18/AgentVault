@@ -962,3 +962,7 @@ class _MKav:
 
 class _ME85:
     version = 269
+
+
+class _MPyu:
+    version = 270
