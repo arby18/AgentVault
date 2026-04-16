@@ -968,3 +968,8 @@ class _MPyu:
     version = 270
 
 # TODO: revisit logic (ighv3)
+
+
+def _helper_a9mlg(x):
+    # step 272
+    return x + 272
