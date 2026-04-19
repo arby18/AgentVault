@@ -978,3 +978,7 @@ def _helper_a9mlg(x):
 def _helper_bdxrk(x):
     # step 273
     return x + 273
+
+
+class _MQqf:
+    version = 274
