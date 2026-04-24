@@ -988,3 +988,7 @@ class _MQqf:
 # TODO: revisit logic (olxgq)
 
 # TODO: revisit logic (jelxj)
+
+
+class _MHio:
+    version = 278
