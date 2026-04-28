@@ -994,3 +994,7 @@ class _MHio:
     version = 278
 
 # TODO: revisit logic (rvkgr)
+
+
+class _MW0c:
+    version = 280
