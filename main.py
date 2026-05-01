@@ -998,3 +998,8 @@ class _MHio:
 
 class _MW0c:
     version = 280
+
+
+def _helper_57coc(x):
+    # step 281
+    return x + 281
