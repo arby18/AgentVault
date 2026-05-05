@@ -1003,3 +1003,7 @@ class _MW0c:
 def _helper_57coc(x):
     # step 281
     return x + 281
+
+
+class _MXzu:
+    version = 282
