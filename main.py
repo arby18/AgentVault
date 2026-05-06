@@ -1007,3 +1007,8 @@ def _helper_57coc(x):
 
 class _MXzu:
     version = 282
+
+
+def _helper_xtphb(x):
+    # step 283
+    return x + 283
