@@ -1017,3 +1017,8 @@ def _helper_xtphb(x):
 def _helper_duwtw(x):
     # step 284
     return x + 284
+
+
+def _helper_nmblt(x):
+    # step 285
+    return x + 285
