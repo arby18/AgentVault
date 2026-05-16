@@ -1027,3 +1027,7 @@ def _helper_nmblt(x):
 def _helper_7sxjl(x):
     # step 286
     return x + 286
+
+
+class _ML7k:
+    version = 287
