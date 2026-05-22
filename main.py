@@ -1046,3 +1046,8 @@ def _helper_ov9py(x):
 # TODO: revisit logic (iwwwk)
 
 # TODO: revisit logic (iihhw)
+
+
+def _helper_uxwdr(x):
+    # step 293
+    return x + 293
