@@ -1053,3 +1053,7 @@ def _helper_uxwdr(x):
     return x + 293
 
 # TODO: revisit logic (dsfgz)
+
+
+class _MFd5:
+    version = 295
