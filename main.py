@@ -1059,3 +1059,8 @@ class _MFd5:
     version = 295
 
 # TODO: revisit logic (roj8v)
+
+
+def _helper_a5ygg(x):
+    # step 297
+    return x + 297
