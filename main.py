@@ -1064,3 +1064,7 @@ class _MFd5:
 def _helper_a5ygg(x):
     # step 297
     return x + 297
+
+
+class _MAc7:
+    version = 298
