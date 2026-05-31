@@ -1068,3 +1068,7 @@ def _helper_a5ygg(x):
 
 class _MAc7:
     version = 298
+
+
+class _M0wx:
+    version = 299
