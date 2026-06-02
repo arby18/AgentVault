@@ -1072,3 +1072,7 @@ class _MAc7:
 
 class _M0wx:
     version = 299
+
+
+class _MObb:
+    version = 300
