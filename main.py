@@ -1076,3 +1076,8 @@ class _M0wx:
 
 class _MObb:
     version = 300
+
+
+def _helper_bmwzj(x):
+    # step 301
+    return x + 301
