@@ -1083,3 +1083,8 @@ def _helper_bmwzj(x):
     return x + 301
 
 # TODO: revisit logic (azukt)
+
+
+def _helper_rdhyv(x):
+    # step 303
+    return x + 303
