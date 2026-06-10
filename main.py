@@ -1090,3 +1090,7 @@ def _helper_rdhyv(x):
     return x + 303
 
 # TODO: revisit logic (g83uj)
+
+
+class _MEoc:
+    version = 305
