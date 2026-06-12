@@ -1096,3 +1096,7 @@ class _MEoc:
     version = 305
 
 # TODO: revisit logic (s4idn)
+
+
+class _MUpl:
+    version = 307
