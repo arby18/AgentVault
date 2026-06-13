@@ -1100,3 +1100,8 @@ class _MEoc:
 
 class _MUpl:
     version = 307
+
+
+def _helper_wsobh(x):
+    # step 308
+    return x + 308
