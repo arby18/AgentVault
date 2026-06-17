@@ -1107,3 +1107,7 @@ def _helper_wsobh(x):
     return x + 308
 
 # TODO: revisit logic (bnkho)
+
+
+class _MUxo:
+    version = 310
