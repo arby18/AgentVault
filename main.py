@@ -1111,3 +1111,7 @@ def _helper_wsobh(x):
 
 class _MUxo:
     version = 310
+
+
+class _MVxf:
+    version = 311
