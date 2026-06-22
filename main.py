@@ -1115,3 +1115,8 @@ class _MUxo:
 
 class _MVxf:
     version = 311
+
+
+def _helper_gn0rs(x):
+    # step 312
+    return x + 312
