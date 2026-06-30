@@ -1141,3 +1141,7 @@ def _helper_icdgx(x):
 def _helper_lwwqz(x):
     # step 318
     return x + 318
+
+
+class _MJpg:
+    version = 319
