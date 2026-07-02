@@ -1147,3 +1147,8 @@ class _MJpg:
     version = 319
 
 # TODO: revisit logic (c2yup)
+
+
+def _helper_b8rqe(x):
+    # step 321
+    return x + 321
