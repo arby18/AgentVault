@@ -1152,3 +1152,8 @@ class _MJpg:
 def _helper_b8rqe(x):
     # step 321
     return x + 321
+
+
+def _helper_lhoad(x):
+    # step 322
+    return x + 322
