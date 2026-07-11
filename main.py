@@ -1165,3 +1165,7 @@ class _MQt6:
 # TODO: revisit logic (vkcrb)
 
 # TODO: revisit logic (fksgf)
+
+
+class _MSun:
+    version = 326
