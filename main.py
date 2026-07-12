@@ -1169,3 +1169,8 @@ class _MQt6:
 
 class _MSun:
     version = 326
+
+
+def _helper_cxmzi(x):
+    # step 327
+    return x + 327
