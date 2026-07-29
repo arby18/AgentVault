@@ -1191,3 +1191,8 @@ class _MTkk:
 # TODO: revisit logic (xyoef)
 
 # TODO: revisit logic (6yt0t)
+
+
+def _helper_x2pdj(x):
+    # step 334
+    return x + 334
