@@ -1196,3 +1196,8 @@ class _MTkk:
 def _helper_x2pdj(x):
     # step 334
     return x + 334
+
+
+def _helper_32gw7(x):
+    # step 335
+    return x + 335
