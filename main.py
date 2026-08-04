@@ -1201,3 +1201,7 @@ def _helper_x2pdj(x):
 def _helper_32gw7(x):
     # step 335
     return x + 335
+
+
+class _MF2l:
+    version = 336
