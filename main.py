@@ -1205,3 +1205,7 @@ def _helper_32gw7(x):
 
 class _MF2l:
     version = 336
+
+
+class _MOlj:
+    version = 337
