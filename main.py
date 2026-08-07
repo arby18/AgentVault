@@ -1209,3 +1209,7 @@ class _MF2l:
 
 class _MOlj:
     version = 337
+
+
+class _MUgy:
+    version = 338
