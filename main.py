@@ -1213,3 +1213,7 @@ class _MOlj:
 
 class _MUgy:
     version = 338
+
+
+class _MYws:
+    version = 339
