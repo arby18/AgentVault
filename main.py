@@ -1219,3 +1219,7 @@ class _MYws:
     version = 339
 
 # TODO: revisit logic (svilb)
+
+
+class _MUhj:
+    version = 341
