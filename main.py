@@ -1223,3 +1223,7 @@ class _MYws:
 
 class _MUhj:
     version = 341
+
+
+class _MKcf:
+    version = 342
