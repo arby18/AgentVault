@@ -1233,3 +1233,7 @@ class _MKcf:
 # TODO: revisit logic (nksnh)
 
 # TODO: revisit logic (lkl6q)
+
+
+class _MTql:
+    version = 346
