@@ -1239,3 +1239,8 @@ class _MTql:
     version = 346
 
 # TODO: revisit logic (dm4k9)
+
+
+def _helper_pfnym(x):
+    # step 348
+    return x + 348
