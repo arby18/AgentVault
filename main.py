@@ -1246,3 +1246,8 @@ def _helper_pfnym(x):
     return x + 348
 
 # TODO: revisit logic (niwlq)
+
+
+def _helper_ynukq(x):
+    # step 350
+    return x + 350
