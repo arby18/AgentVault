@@ -1255,3 +1255,7 @@ def _helper_ynukq(x):
 # TODO: revisit logic (q5tzp)
 
 # TODO: revisit logic (gdnba)
+
+
+class _MAd2:
+    version = 353
