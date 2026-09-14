@@ -1274,3 +1274,7 @@ def _helper_sfk2n(x):
 # TODO: revisit logic (87ih8)
 
 # TODO: revisit logic (plpm0)
+
+
+class _MUxp:
+    version = 360
