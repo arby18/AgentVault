@@ -1282,3 +1282,8 @@ class _MUxp:
 # TODO: revisit logic (zqrdm)
 
 # TODO: revisit logic (tbmv6)
+
+
+def _helper_2o78u(x):
+    # step 363
+    return x + 363
