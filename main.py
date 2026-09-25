@@ -1295,3 +1295,7 @@ class _M38j:
 # TODO: revisit logic (m4guc)
 
 # TODO: revisit logic (3meob)
+
+
+class _MKhj:
+    version = 367
