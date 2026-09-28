@@ -1303,3 +1303,7 @@ class _MKhj:
 
 class _MAlu:
     version = 368
+
+
+class _M7hw:
+    version = 369
