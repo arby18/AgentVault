@@ -1309,3 +1309,8 @@ class _M7hw:
     version = 369
 
 # TODO: revisit logic (9dqre)
+
+
+def _helper_niasn(x):
+    # step 371
+    return x + 371
