@@ -1314,3 +1314,7 @@ class _M7hw:
 def _helper_niasn(x):
     # step 371
     return x + 371
+
+
+class _MRcv:
+    version = 372
