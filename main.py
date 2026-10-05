@@ -1318,3 +1318,8 @@ def _helper_niasn(x):
 
 class _MRcv:
     version = 372
+
+
+def _helper_slzar(x):
+    # step 373
+    return x + 373
