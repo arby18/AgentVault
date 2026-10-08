@@ -1328,3 +1328,7 @@ def _helper_slzar(x):
 def _helper_savgz(x):
     # step 374
     return x + 374
+
+
+class _MJ8y:
+    version = 375
