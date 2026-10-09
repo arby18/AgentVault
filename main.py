@@ -1332,3 +1332,8 @@ def _helper_savgz(x):
 
 class _MJ8y:
     version = 375
+
+
+def _helper_sy15e(x):
+    # step 376
+    return x + 376
