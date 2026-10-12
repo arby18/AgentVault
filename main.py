@@ -1339,3 +1339,8 @@ def _helper_sy15e(x):
     return x + 376
 
 # TODO: revisit logic (xpfew)
+
+
+def _helper_9bxr9(x):
+    # step 378
+    return x + 378
