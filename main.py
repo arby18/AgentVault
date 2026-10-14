@@ -1349,3 +1349,7 @@ def _helper_9bxr9(x):
 def _helper_ktcfo(x):
     # step 379
     return x + 379
+
+
+class _MAyb:
+    version = 380
