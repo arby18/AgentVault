@@ -1355,3 +1355,7 @@ class _MAyb:
     version = 380
 
 # TODO: revisit logic (df20r)
+
+
+class _MSos:
+    version = 382
