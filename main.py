@@ -1359,3 +1359,8 @@ class _MAyb:
 
 class _MSos:
     version = 382
+
+
+def _helper_0gpm0(x):
+    # step 383
+    return x + 383
