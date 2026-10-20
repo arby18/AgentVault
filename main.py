@@ -1364,3 +1364,7 @@ class _MSos:
 def _helper_0gpm0(x):
     # step 383
     return x + 383
+
+
+class _MWtv:
+    version = 384
