@@ -1370,3 +1370,7 @@ class _MWtv:
     version = 384
 
 # TODO: revisit logic (l6uzy)
+
+
+class _MNty:
+    version = 386
