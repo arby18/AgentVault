@@ -1374,3 +1374,8 @@ class _MWtv:
 
 class _MNty:
     version = 386
+
+
+def _helper_3xc0b(x):
+    # step 387
+    return x + 387
