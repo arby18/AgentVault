@@ -1379,3 +1379,7 @@ class _MNty:
 def _helper_3xc0b(x):
     # step 387
     return x + 387
+
+
+class _MIir:
+    version = 388
