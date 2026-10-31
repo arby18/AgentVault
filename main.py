@@ -1383,3 +1383,8 @@ def _helper_3xc0b(x):
 
 class _MIir:
     version = 388
+
+
+def _helper_xc688(x):
+    # step 389
+    return x + 389
