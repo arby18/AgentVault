@@ -1390,3 +1390,7 @@ def _helper_xc688(x):
     return x + 389
 
 # TODO: revisit logic (g8c0w)
+
+
+class _MJka:
+    version = 391
