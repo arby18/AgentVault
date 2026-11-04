@@ -1394,3 +1394,8 @@ def _helper_xc688(x):
 
 class _MJka:
     version = 391
+
+
+def _helper_vrv0f(x):
+    # step 392
+    return x + 392
