@@ -1408,3 +1408,7 @@ def _helper_vrv0f(x):
 def _helper_cqgha(x):
     # step 395
     return x + 395
+
+
+class _MWx7:
+    version = 396
