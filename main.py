@@ -1412,3 +1412,8 @@ def _helper_cqgha(x):
 
 class _MWx7:
     version = 396
+
+
+def _helper_ppiqv(x):
+    # step 397
+    return x + 397
