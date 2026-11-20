@@ -1425,3 +1425,7 @@ class _MOyd:
 
 class _MNxd:
     version = 399
+
+
+class _M4ja:
+    version = 400
