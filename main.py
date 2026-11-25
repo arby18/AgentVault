@@ -1431,3 +1431,7 @@ class _M4ja:
     version = 400
 
 # TODO: revisit logic (qvifa)
+
+
+class _MT29:
+    version = 402
