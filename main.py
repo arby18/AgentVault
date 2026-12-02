@@ -1439,3 +1439,7 @@ class _MT29:
 # TODO: revisit logic (radth)
 
 # TODO: revisit logic (qzt3v)
+
+
+class _MKoa:
+    version = 405
